@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 1" tvg-logo="https://i.imgur.com/lIJWFir.png" group-title="CANAIS • REALITY SHOW",A FAZENDA 1
+http://mov4.net:80/carol2020/carol2020/6218947
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2" tvg-logo="https://i.imgur.com/lIJWFir.png" group-title="CANAIS • REALITY SHOW",A FAZENDA 2
+http://mov4.net:80/carol2020/carol2020/6218948
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 3" tvg-logo="https://i.imgur.com/lIJWFir.png" group-title="CANAIS • REALITY SHOW",A FAZENDA 3
+http://mov4.net:80/carol2020/carol2020/6218949
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 4" tvg-logo="https://i.imgur.com/lIJWFir.png" group-title="CANAIS • REALITY SHOW",A FAZENDA 4
+http://mov4.net:80/carol2020/carol2020/6218950
